@@ -1,0 +1,340 @@
+Postcode	Borough	Neighbourhood
+8102	Zurich Kanton	Oberengstringen
+8103	Zurich Kanton	Unterengstringen
+8104	Zurich Kanton	Weiningen
+8044	Zurich Kanton	Gockhausen
+8105	Regensdorf	Watt
+8106	Regensdorf	Adlikon bei Regensdorf
+8107	Regensdorf	Buchs
+8108	Regensdorf	Daellikon
+8112	Regensdorf	Otelfingen
+8113	Regensdorf	Boppelsen
+8114	Regensdorf	Daenikon
+8115	Regensdorf	H「ettikon
+8117	Regensdorf	Faellanden
+8118	Regensdorf	Pfaffhausen
+8121	Regensdorf	Benglen
+8122	Regensdorf	Binz
+8123	Regensdorf	Ebmatingen
+8124	Regensdorf	Maur
+8125	Regensdorf	Zollikerberg
+8126	Regensdorf	Zumikon
+8127	Regensdorf	Forch
+8130	Regensdorf	Zumikon Yves Rocher SA
+8132	Regensdorf	Hinteregg
+8132	Regensdorf	Egg bei Zurich
+8133	Regensdorf	Esslingen
+8134	Regensdorf	Adliswil
+8135	Regensdorf	Langnau am Albis
+8135	Regensdorf	Sihlbrugg Station
+8136	Regensdorf	Gattikon
+8142	Regensdorf	Uitikon Waldegg
+8143	Regensdorf	Uetliberg
+8143	Regensdorf	Stallikon
+8152	Regensdorf	Glattbrugg
+8152	Regensdorf	Opfikon
+8153	Regensdorf	R［lang
+8154	Regensdorf	Oberglatt
+8155	Regensdorf	Niederhasli
+8156	Regensdorf	Oberhasli
+8157	Regensdorf	Dielsdorf
+8158	Regensdorf	Regensberg
+8162	Regensdorf	Steinmaur
+8164	Regensdorf	Bachs
+8165	Regensdorf	Schoefflisdorf
+8165	Regensdorf	Oberweningen
+8165	Regensdorf	Schleinikon
+8166	Regensdorf	Niederweningen
+8172	Regensdorf	Niederglatt
+8173	Regensdorf	Neerach
+8174	Regensdorf	Stadel bei Niederglatt
+8175	Regensdorf	Windlach
+8180	Regensdorf	B「elach
+8181	Regensdorf	Hoeri
+8182	Regensdorf	Hochfelden
+8184	Regensdorf	Bachenbue〕ach
+8185	Regensdorf	Winkel
+8187	Regensdorf	Weiach
+8192	Regensdorf	Glattfelden
+8192	Regensdorf	Zweidlen
+8193	Regensdorf	Eglisau
+8194	Regensdorf	H］twangen
+8195	Regensdorf	Wasterkingen
+8196	Regensdorf	Wil
+8197	Regensdorf	Rafz
+8212	Regensdorf	Nohl
+8245	Regensdorf	Feuerthalen
+8246	Regensdorf	Langwiesen
+8247	Regensdorf	Flurlingen
+8248	Regensdorf	Uhwiesen
+8301	Regensdorf	Glattzentrum
+8302	Regensdorf	Kloten
+8303	Regensdorf	Bassersdorf
+8304	Regensdorf	Wallisellen
+8305	Regensdorf	Dietlikon
+8306	Regensdorf	Br》tisellen
+8307	Regensdorf	Effretikon
+8307	Regensdorf	Ottikon bei Kemptthal
+8308	Regensdorf	Illnau
+8308	Regensdorf	Agasul
+8309	Regensdorf	Nue〉ensdorf
+8310	Regensdorf	Kemptthal
+8311	Regensdorf	Br「etten
+8312	Regensdorf	Winterberg
+8314	Regensdorf	Kyburg
+8315	Regensdorf	Lindau
+8317	Regensdorf	Tagelswangen
+8320	Regensdorf	Fehraltorf
+8322	Regensdorf	Madetswil
+8330	Regensdorf	Pfaeffikon
+8330	Regensdorf	Hermatswil
+8331	Regensdorf	Auslikon
+8332	Regensdorf	Russikon
+8335	Regensdorf	Hittnau
+8335	Regensdorf	Oberhittnau
+8335	Regensdorf	D〉stelen
+8340	Regensdorf	Hinwil
+8342	Regensdorf	Wernetshausen
+8344	Regensdorf	Baeretswil
+8345	Regensdorf	Adetswil
+8352	Regensdorf	Raeterschen
+8353	Regensdorf	Elgg
+8354	Regensdorf	Hofstetten
+8400	Regensdorf	Winterthur
+8404	Regensdorf	Reutlingen
+8404	Regensdorf	Stadel (Winterthur)
+8412	Winterthur	Aesch bei Neftenbach
+8413	Winterthur	Neftenbach
+8414	Winterthur	Buch am Irchel
+8415	Winterthur	Berg am Irchel
+8415	Winterthur	Graeslikon
+8416	Winterthur	Flaach
+8418	Winterthur	Schlatt bei Winterthur
+8421	Winterthur	Daettlikon
+8422	Winterthur	Pfungen
+8423	Winterthur	Embrach-Embraport
+8424	Winterthur	Embrach
+8425	Winterthur	Oberembrach
+8426	Winterthur	Lufingen
+8427	Winterthur	Rorbas-Freienstein
+8427	Winterthur	Freienstein
+8427	Winterthur	Rorbas
+8428	Winterthur	Teufen
+8442	Winterthur	Hettlingen
+8444	Winterthur	Henggart
+8447	Winterthur	Dachsen
+8450	Winterthur	Andelfingen
+8451	Winterthur	Kleinandelfingen
+8452	Winterthur	Adlikon bei Andelfingen
+8453	Winterthur	Alten
+8457	Winterthur	Humlikon
+8458	Winterthur	Dorf
+8459	Winterthur	Volken
+8460	Winterthur	Marthalen
+8461	Winterthur	Oerlingen
+8462	Winterthur	Rheinau
+8463	Winterthur	Benken
+8464	Winterthur	Ellikon am Rhein
+8465	Winterthur	Rudolfingen
+8466	Winterthur	True〕likon
+8467	Winterthur	Truttikon
+8468	Winterthur	Guntalingen
+8468	Winterthur	Waltalingen
+8471	Winterthur	Rutschwil-Daegerlen
+8471	Winterthur	Daegerlen
+8472	Winterthur	Seuzach
+8474	Winterthur	Dinhard
+8475	Winterthur	Ossingen
+8476	Winterthur	Unterstammheim
+8477	Winterthur	Oberstammheim
+8478	Winterthur	Thalheim an der Thur
+8479	Winterthur	Altikon
+8482	Winterthur	Sennhof
+8483	Winterthur	Kollbrunn
+8484	Winterthur	Weisslingen
+8484	Winterthur	Neschwil
+8484	Winterthur	Theilingen
+8486	Winterthur	Rikon im Toesstal
+8487	Winterthur	Raemism”le
+8487	Winterthur	Zell
+8488	Winterthur	Neubrunn
+8488	Winterthur	Turbenthal
+8489	Winterthur	Wildberg
+8492	Winterthur	Wila
+8493	Winterthur	Saland
+8494	Winterthur	Bauma
+8495	Winterthur	Schmidr「eti
+8496	Winterthur	Steg im Toesstal
+8497	Winterthur	Fischenthal
+8498	Winterthur	Gibswil-Ried
+8499	Winterthur	Sternenberg
+8523	Winterthur	Hagenbuch
+8542	Winterthur	Wiesendangen
+8544	Winterthur	Rickenbach-Attikon
+8544	Winterthur	Bertschikon
+8545	Winterthur	Rickenbach
+8548	Winterthur	Ellikon an der Thur
+8600	Winterthur	D「ebendorf
+8602	D「ebendorf	Wangen bei D「ebendorf
+8603	D「ebendorf	Schwerzenbach
+8604	D「ebendorf	Volketswil
+8605	D「ebendorf	Gutenswil
+8606	D「ebendorf	Naenikon
+8606	D「ebendorf	Greifensee
+8607	D「ebendorf	Aathal-Seegraeben
+8608	D「ebendorf	Bubikon
+8609	D「ebendorf	Schwerzenbach
+8610	D「ebendorf	-8613 Uster
+8614	D「ebendorf	Bertschikon (Gossau)
+8614	D「ebendorf	Sulzbach
+8615	D「ebendorf	Wermatswil
+8615	D「ebendorf	Freudwil
+8616	D「ebendorf	Riedikon
+8617	D「ebendorf	Moenchaltorf
+8618	D「ebendorf	Oetwil am See
+8620	D「ebendorf	Wetzikon
+8620	D「ebendorf	Ettenhausen bei Wetzikon
+8624	D「ebendorf	Gr「et (Gossau)
+8625	D「ebendorf	Gossau
+8626	D「ebendorf	Ottikon (Gossau)
+8627	D「ebendorf	Gr「eningen
+8630	D「ebendorf	R「eti
+8632	D「ebendorf	Tann
+8633	D「ebendorf	Wolfhausen
+8634	D「ebendorf	Hombrechtikon
+8635	D「ebendorf	D「ernten
+8636	D「ebendorf	Wald
+8637	D「ebendorf	Laupen
+8639	D「ebendorf	Faltigberg
+8700	D「ebendorf	K「esnacht
+8702	D「ebendorf	Zollikon
+8703	D「ebendorf	Erlenbach
+8704	D「ebendorf	Herrliberg
+8706	D「ebendorf	Meilen
+8706	D「ebendorf	Feldmeilen
+8706	D「ebendorf	Obermeilen
+8707	D「ebendorf	Uetikon am See
+8708	D「ebendorf	Maennedorf
+8712	D「ebendorf	Staefa
+8713	D「ebendorf	Uerikon
+8714	D「ebendorf	Feldbach
+8800	D「ebendorf	Thalwil
+8802	D「ebendorf	Kilchberg
+8803	D「ebendorf	R「eschlikon
+8804	D「ebendorf	Au
+8805	D「ebendorf	Richterswil
+8810	D「ebendorf	Horgen
+8815	D「ebendorf	Horgenberg
+8816	D「ebendorf	Hirzel
+8820	D「ebendorf	Waedenswil
+8824	D「ebendorf	Schoenenberg
+8824	D「ebendorf	Tanne bei Waedenswil
+8825	D「ebendorf	H「etten
+8833	D「ebendorf	Samstagern
+8902	D「ebendorf	Urdorf
+8903	D「ebendorf	Birmensdorf
+8904	D「ebendorf	Aesch bei Birmensdorf
+8906	D「ebendorf	Bonstetten
+8907	D「ebendorf	Wettswil
+8908	D「ebendorf	Hedingen
+8909	D「ebendorf	Zwillikon
+8910	D「ebendorf	Affoltern am Albis
+8911	D「ebendorf	Rifferswil
+8912	D「ebendorf	Obfelden
+8913	D「ebendorf	Ottenbach
+8914	D「ebendorf	Aeugst am Albis
+8914	D「ebendorf	Aeugstertal
+8915	D「ebendorf	Hausen am Albis
+8925	D「ebendorf	Ebertswil
+8926	D「ebendorf	Kappel am Albis
+8926	D「ebendorf	Hauptikon
+8926	D「ebendorf	Uerzlikon
+8932	D「ebendorf	Mettmenstetten
+8933	D「ebendorf	Maschwanden
+8934	D「ebendorf	Knonau
+8942	D「ebendorf	Oberrieden
+8951	D「ebendorf	Fahrweid
+8952	D「ebendorf	Schlieren
+8953	D「ebendorf	Dietikon
+8954	D「ebendorf	Geroldswil
+8955	D「ebendorf	Oetwil an der Limmat
+8000	Zurich City	Zurich-Area
+8001	Zurich City	Altstadt Zurich
+8001	Zurich City	Hochschulen
+8001	Zurich City	Hottingen
+8001	Zurich City	Lindenhof
+8001	Zurich City	Rathaus
+8002	Zurich City	Zurich-Area
+8003	Zurich City	Alt-Wiedikon
+8003	Zurich City	Sihlfeld
+8004	Zurich City	Hard
+8004	Zurich City	Langstrasse
+8004	Zurich City	Werd
+8005	Zurich City	Escher-Wyss
+8005	Zurich City	Gewerbeschule
+8006	Zurich City	Zurich-Area
+8008	Zurich City	M「ehlebach
+8008	Zurich City	Seefeld
+8008	Zurich City	Weinegg
+8015	Zurich City	Zurich-Area
+8016	Zurich City	Zurich-Area
+8021	Zurich City	Zurich-Area
+8022	Zurich City	Zurich-Area
+8023	Zurich City	Zurich-Area
+8024	Zurich City	Zurich-Area
+8025	Zurich City	Zurich-Area
+8026	Zurich City	Zurich-Area
+8027	Zurich City	Zurich-Area
+8030	Zurich City	Zurich-Area
+8031	Zurich City	Zurich-Area
+8032	Zurich City	Zurich-Area
+8033	Zurich City	Zurich-Area
+8034	Zurich City	Zurich-Area
+8036	Zurich City	Zurich-Area
+8037	Zurich City	Zurich-Area
+8038	Zurich City	Wollishofen
+8039	Zurich City	Zurich-Area
+8040	Zurich City	Zurich-Area
+8041	Zurich City	Leimbach
+8042	Zurich City	Zurich-Area
+8044	Zurich City	Fluntern
+8044	Zurich City	Oberstrass
+8045	Zurich City	Alt-Wiedikon
+8045	Zurich City	Friesenberg
+8046	Zurich City	Affoltern
+8047	Zurich City	Zurich-Area
+8048	Zurich City	Altstetten
+8049	Zurich City	Zurich-Area
+8050	Zurich City	Zurich-Area
+8051	Zurich City	Hirzenbach
+8051	Zurich City	Schwamendingen
+8052	Zurich City	Seebach
+8053	Zurich City	Witikon
+8055	Zurich City	Albisrieden
+8055	Zurich City	Alt-Wiedikon
+8055	Zurich City	Friesenberg
+8057	Zurich City	Oerlikon
+8057	Zurich City	Unterstrass
+8059	Zurich City	Zurich-Area
+8061	Zurich City	Zurich-Area
+8063	Zurich City	Zurich-Area
+8064	Zurich City	Altstetten
+8066	Zurich City	Zurich-Area
+8068	Zurich City	Zurich-Area
+8070	Zurich City	Zurich-Area
+8071	Zurich City	Zurich-Area
+8074	Zurich City	Zurich-Area
+8075	Zurich City	Zurich-Area
+8080	Zurich City	Zurich-Area
+8081	Zurich City	Zurich-Area
+8085	Zurich City	Zurich-Area
+8086	Zurich City	Zurich-Area
+8087	Zurich City	Zurich-Area
+8088	Zurich City	Zurich-Area
+8090	Zurich City	Zurich-Area
+8091	Zurich City	Zurich-Area
+8092	Zurich City	Zurich-Area
+8093	Zurich City	Zurich-Area
+8096	Zurich City	Zurich-Area
+8098	Zurich City	Zurich-Area
+8099	Zurich City	Zurich-Area
