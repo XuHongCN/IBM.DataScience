@@ -52,7 +52,7 @@ Postcode	Borough	Neighbourhood
 8180	Regensdorf	Buelach
 8181	Regensdorf	Hoeri
 8182	Regensdorf	Hochfelden
-8184	Regensdorf	Bachenbue〕ach
+8184	Regensdorf	Bachenbuelach
 8185	Regensdorf	Winkel
 8187	Regensdorf	Weiach
 8192	Regensdorf	Glattfelden
