@@ -68,9 +68,6 @@ Postcode,Borough,Neighbourhood
 8247,Regensdorf,Flurlingen
 8248,Regensdorf,Uhwiesen
 8301,Regensdorf,Glattzentrum
-8302,Regensdorf,Kloten
-8303,Regensdorf,Bassersdorf
-8304,Regensdorf,Wallisellen
 8305,Regensdorf,Dietlikon
 8306,Regensdorf,Brttisellen
 8307,Regensdorf,Effretikon
@@ -338,3 +335,6 @@ Postcode,Borough,Neighbourhood
 8096,Zurich Downtown,Zurich-Area
 8098,Zurich Downtown,Zurich-Area
 8099,Zurich Downtown,Zurich-Area
+8302,Regensdorf,Kloten
+8303,Regensdorf,Bassersdorf
+8304,Regensdorf,Wallisellen
