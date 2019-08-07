@@ -1,0 +1,340 @@
+;Postcode;Borough;Neighbourhood
+;8102;ÿZrich Kanton;Oberengstringenÿ
+;8103;ÿZrich Kanton;Unterengstringenÿ
+;8104;ÿZrich Kanton;Weiningenÿ
+;8044;ÿZrich Kanton;Gockhausenÿ
+;8105;Regensdorf;Wattÿ
+;8106;Regensdorf;Adlikon bei Regensdorfÿ
+;8107;Regensdorf;Buchsÿ
+;8108;Regensdorf;D„llikonÿ
+;8112;Regensdorf;Otelfingenÿ
+;8113;Regensdorf;Boppelsenÿ
+;8114;Regensdorf;D„nikonÿ
+;8115;Regensdorf;Httikonÿ
+;8117;Regensdorf;F„llandenÿ
+;8118;Regensdorf;Pfaffhausenÿ
+;8121;Regensdorf;Benglenÿ
+;8122;Regensdorf;Binzÿ
+;8123;Regensdorf;Ebmatingenÿ
+;8124;Regensdorf;Maurÿ
+;8125;Regensdorf;Zollikerbergÿ
+;8126;Regensdorf;Zumikonÿ
+;8127;Regensdorf;Forchÿ
+;8130;Regensdorf;Zumikon Yves Rocher SAÿ
+;8132;Regensdorf;Hintereggÿ
+;8132;Regensdorf;Egg bei Zrichÿ
+;8133;Regensdorf;Esslingenÿ
+;8134;Regensdorf;Adliswilÿ
+;8135;Regensdorf;Langnau am Albisÿ
+;8135;Regensdorf;Sihlbrugg Stationÿ
+;8136;Regensdorf;Gattikonÿ
+;8142;Regensdorf;Uitikon Waldeggÿ
+;8143;Regensdorf;Uetlibergÿ
+;8143;Regensdorf;Stallikonÿ
+;8152;Regensdorf;Glattbruggÿ
+;8152;Regensdorf;Opfikonÿ
+;8153;Regensdorf;Rmlangÿ
+;8154;Regensdorf;Oberglattÿ
+;8155;Regensdorf;Niederhasliÿ
+;8156;Regensdorf;Oberhasliÿ
+;8157;Regensdorf;Dielsdorfÿ
+;8158;Regensdorf;Regensbergÿ
+;8162;Regensdorf;Steinmaurÿ
+;8164;Regensdorf;Bachsÿ
+;8165;Regensdorf;Sch”fflisdorfÿ
+;8165;Regensdorf;Oberweningenÿ
+;8165;Regensdorf;Schleinikonÿ
+;8166;Regensdorf;Niederweningenÿ
+;8172;Regensdorf;Niederglattÿ
+;8173;Regensdorf;Neerachÿ
+;8174;Regensdorf;Stadel bei Niederglattÿ
+;8175;Regensdorf;Windlachÿ
+;8180;Regensdorf;Blachÿ
+;8181;Regensdorf;H”riÿ
+;8182;Regensdorf;Hochfeldenÿ
+;8184;Regensdorf;Bachenblachÿ
+;8185;Regensdorf;Winkelÿ
+;8187;Regensdorf;Weiachÿ
+;8192;Regensdorf;Glattfeldenÿ
+;8192;Regensdorf;Zweidlenÿ
+;8193;Regensdorf;Eglisauÿ
+;8194;Regensdorf;Hntwangenÿ
+;8195;Regensdorf;Wasterkingenÿ
+;8196;Regensdorf;Wilÿ
+;8197;Regensdorf;Rafzÿ
+;8212;Regensdorf;Nohlÿ
+;8245;Regensdorf;Feuerthalenÿ
+;8246;Regensdorf;Langwiesenÿ
+;8247;Regensdorf;Flurlingenÿ
+;8248;Regensdorf;Uhwiesenÿ
+;8301;Regensdorf;Glattzentrumÿ
+;8302;Regensdorf;Klotenÿ
+;8303;Regensdorf;Bassersdorfÿ
+;8304;Regensdorf;Wallisellenÿ
+;8305;Regensdorf;Dietlikonÿ
+;8306;Regensdorf;Brttisellenÿ
+;8307;Regensdorf;Effretikonÿ
+;8307;Regensdorf;Ottikon bei Kemptthalÿ
+;8308;Regensdorf;Illnauÿ
+;8308;Regensdorf;Agasulÿ
+;8309;Regensdorf;Nrensdorfÿ
+;8310;Regensdorf;Kemptthalÿ
+;8311;Regensdorf;Brttenÿ
+;8312;Regensdorf;Winterbergÿ
+;8314;Regensdorf;Kyburgÿ
+;8315;Regensdorf;Lindauÿ
+;8317;Regensdorf;Tagelswangenÿ
+;8320;Regensdorf;Fehraltorfÿ
+;8322;Regensdorf;Madetswilÿ
+;8330;Regensdorf;Pf„ffikonÿ
+;8330;Regensdorf;Hermatswilÿ
+;8331;Regensdorf;Auslikonÿ
+;8332;Regensdorf;Russikonÿ
+;8335;Regensdorf;Hittnauÿ
+;8335;Regensdorf;Oberhittnauÿ
+;8335;Regensdorf;Drstelenÿ
+;8340;Regensdorf;Hinwilÿ
+;8342;Regensdorf;Wernetshausenÿ
+;8344;Regensdorf;B„retswilÿ
+;8345;Regensdorf;Adetswilÿ
+;8352;Regensdorf;R„terschenÿ
+;8353;Regensdorf;Elggÿ
+;8354;Regensdorf;Hofstettenÿ
+;8400;Regensdorf;-8403 Winterthurÿ
+;8404;Regensdorf;Reutlingenÿ
+;8404;Regensdorf;Stadel (Winterthur)ÿ
+;8412;Winterthur;Aesch bei Neftenbachÿ
+;8413;Winterthur;Neftenbachÿ
+;8414;Winterthur;Buch am Irchelÿ
+;8415;Winterthur;Berg am Irchelÿ
+;8415;Winterthur;Gr„slikonÿ
+;8416;Winterthur;Flaachÿ
+;8418;Winterthur;Schlatt bei Winterthur
+;8421;Winterthur;D„ttlikon
+;8422;Winterthur;Pfungenÿ
+;8423;Winterthur;Embrach-Embraportÿ
+;8424;Winterthur;Embrachÿ
+;8425;Winterthur;Oberembrachÿ
+;8426;Winterthur;Lufingenÿ
+;8427;Winterthur;Rorbas-Freiensteinÿ
+;8427;Winterthur;Freiensteinÿ
+;8427;Winterthur;Rorbasÿ
+;8428;Winterthur;Teufenÿ
+;8442;Winterthur;Hettlingenÿ
+;8444;Winterthur;Henggartÿ
+;8447;Winterthur;Dachsenÿ
+;8450;Winterthur;Andelfingenÿ
+;8451;Winterthur;Kleinandelfingenÿ
+;8452;Winterthur;Adlikon bei Andelfingenÿ
+;8453;Winterthur;Altenÿ
+;8457;Winterthur;Humlikonÿ
+;8458;Winterthur;Dorfÿ
+;8459;Winterthur;Volkenÿ
+;8460;Winterthur;Marthalenÿ
+;8461;Winterthur;Oerlingenÿ
+;8462;Winterthur;Rheinauÿ
+;8463;Winterthur;Benkenÿ
+;8464;Winterthur;Ellikon am Rheinÿ
+;8465;Winterthur;Rudolfingenÿ
+;8466;Winterthur;Trllikonÿ
+;8467;Winterthur;Truttikonÿ
+;8468;Winterthur;Guntalingenÿ
+;8468;Winterthur;Waltalingenÿ
+;8471;Winterthur;Rutschwil-D„gerlenÿ
+;8471;Winterthur;D„gerlenÿ
+;8472;Winterthur;Seuzachÿ
+;8474;Winterthur;Dinhardÿ
+;8475;Winterthur;Ossingenÿ
+;8476;Winterthur;Unterstammheimÿ
+;8477;Winterthur;Oberstammheimÿ
+;8478;Winterthur;Thalheim an der Thurÿ
+;8479;Winterthur;Altikonÿ
+;8482;Winterthur;Sennhofÿ
+;8483;Winterthur;Kollbrunnÿ
+;8484;Winterthur;Weisslingenÿ
+;8484;Winterthur;Neschwilÿ
+;8484;Winterthur;Theilingenÿ
+;8486;Winterthur;Rikon im T”sstalÿ
+;8487;Winterthur;R„mismhleÿ
+;8487;Winterthur;Zellÿ
+;8488;Winterthur;Neubrunnÿ
+;8488;Winterthur;Turbenthalÿ
+;8489;Winterthur;Wildbergÿ
+;8492;Winterthur;Wilaÿ
+;8493;Winterthur;Salandÿ
+;8494;Winterthur;Baumaÿ
+;8495;Winterthur;Schmidrtiÿ
+;8496;Winterthur;Steg im T”sstalÿ
+;8497;Winterthur;Fischenthalÿ
+;8498;Winterthur;Gibswil-Riedÿ
+;8499;Winterthur;Sternenbergÿ
+;8523;Winterthur;Hagenbuchÿ
+;8542;Winterthur;Wiesendangenÿ
+;8544;Winterthur;Rickenbach-Attikonÿ
+;8544;Winterthur;Bertschikon
+;8545;Winterthur;Rickenbachÿ
+;8548;Winterthur;Ellikon an der Thurÿ
+;8600;Winterthur;Dbendorfÿ
+;8602;Dbendorf;Wangen bei Dbendorfÿ
+;8603;Dbendorf;Schwerzenbachÿ
+;8604;Dbendorf;Volketswilÿ
+;8605;Dbendorf;Gutenswilÿ
+;8606;Dbendorf;N„nikonÿ
+;8606;Dbendorf;Greifenseeÿ
+;8607;Dbendorf;Aathal-Seegr„benÿ
+;8608;Dbendorf;Bubikonÿ
+;8609;Dbendorf;Schwerzenbachÿ
+;8610;Dbendorf;-8613 Usterÿ
+;8614;Dbendorf;Bertschikon (Gossau)ÿ
+;8614;Dbendorf;Sulzbachÿ
+;8615;Dbendorf;Wermatswilÿ
+;8615;Dbendorf;Freudwilÿ
+;8616;Dbendorf;Riedikonÿ
+;8617;Dbendorf;M”nchaltorfÿ
+;8618;Dbendorf;Oetwil am Seeÿ
+;8620;Dbendorf;-8623 Wetzikonÿ
+;8620;Dbendorf;Ettenhausen bei Wetzikonÿ
+;8624;Dbendorf;Grt (Gossau)ÿ
+;8625;Dbendorf;Gossauÿ
+;8626;Dbendorf;Ottikon (Gossau)ÿ
+;8627;Dbendorf;Grningenÿ
+;8630;Dbendorf;Rtiÿ
+;8632;Dbendorf;Tannÿ
+;8633;Dbendorf;Wolfhausenÿ
+;8634;Dbendorf;Hombrechtikonÿ
+;8635;Dbendorf;Drntenÿ
+;8636;Dbendorf;Waldÿ
+;8637;Dbendorf;Laupenÿ
+;8639;Dbendorf;Faltigbergÿ
+;8700;Dbendorf;Ksnachtÿ
+;8702;Dbendorf;Zollikonÿ
+;8703;Dbendorf;Erlenbachÿ
+;8704;Dbendorf;Herrlibergÿ
+;8706;Dbendorf;Meilenÿ
+;8706;Dbendorf;Feldmeilenÿ
+;8706;Dbendorf;Obermeilenÿ
+;8707;Dbendorf;Uetikon am Seeÿ
+;8708;Dbendorf;M„nnedorfÿ
+;8712;Dbendorf;St„faÿ
+;8713;Dbendorf;Uerikonÿ
+;8714;Dbendorf;Feldbachÿ
+;8800;Dbendorf;Thalwilÿ
+;8802;Dbendorf;Kilchbergÿ
+;8803;Dbendorf;Rschlikonÿ
+;8804;Dbendorf;Auÿ
+;8805;Dbendorf;Richterswilÿ
+;8810;Dbendorf;Horgenÿ
+;8815;Dbendorf;Horgenbergÿ
+;8816;Dbendorf;Hirzelÿ
+;8820;Dbendorf;W„denswilÿ
+;8824;Dbendorf;Sch”nenbergÿ
+;8824;Dbendorf;Tanne bei W„denswilÿ
+;8825;Dbendorf;Httenÿ
+;8833;Dbendorf;Samstagernÿ
+;8902;Dbendorf;Urdorfÿ
+;8903;Dbendorf;Birmensdorfÿ
+;8904;Dbendorf;Aesch bei Birmensdorfÿ
+;8906;Dbendorf;Bonstettenÿ
+;8907;Dbendorf;Wettswilÿ
+;8908;Dbendorf;Hedingenÿ
+;8909;Dbendorf;Zwillikonÿ
+;8910;Dbendorf;Affoltern am Albisÿ
+;8911;Dbendorf;Rifferswilÿ
+;8912;Dbendorf;Obfeldenÿ
+;8913;Dbendorf;Ottenbachÿ
+;8914;Dbendorf;Aeugst am Albisÿ
+;8914;Dbendorf;Aeugstertalÿ
+;8915;Dbendorf;Hausen am Albisÿ
+;8925;Dbendorf;Ebertswilÿ
+;8926;Dbendorf;Kappel am Albisÿ
+;8926;Dbendorf;Hauptikonÿ
+;8926;Dbendorf;Uerzlikonÿ
+;8932;Dbendorf;Mettmenstettenÿ
+;8933;Dbendorf;Maschwandenÿ
+;8934;Dbendorf;Knonauÿ
+;8942;Dbendorf;Oberriedenÿ
+;8951;Dbendorf;Fahrweidÿ
+;8952;Dbendorf;Schlierenÿ
+;8953;Dbendorf;Dietikonÿ
+;8954;Dbendorf;Geroldswilÿ
+;8955;Dbendorf;Oetwil an der Limmatÿ
+;8000;ÿZrich City;Zrich-Area
+;8001;ÿZrich City;Altstadt Zrich
+;8001;ÿZrich City;Hochschulen
+;8001;ÿZrich City;Hottingen
+;8001;ÿZrich City;Lindenhof
+;8001;ÿZrich City;Rathaus
+;8002;ÿZrich City;Zrich-Area
+;8003;ÿZrich City;Alt-Wiedikon
+;8003;ÿZrich City;Sihlfeld
+;8004;ÿZrich City;Hard
+;8004;ÿZrich City;Langstrasse
+;8004;ÿZrich City;Werd
+;8005;ÿZrich City;Escher-Wyss
+;8005;ÿZrich City;Gewerbeschule
+;8006;ÿZrich City;Zrich-Area
+;8008;ÿZrich City;Mhlebach
+;8008;ÿZrich City;Seefeld
+;8008;ÿZrich City;Weinegg
+;8015;ÿZrich City;Zrich-Area
+;8016;ÿZrich City;Zrich-Area
+;8021;ÿZrich City;Zrich-Area
+;8022;ÿZrich City;Zrich-Area
+;8023;ÿZrich City;Zrich-Area
+;8024;ÿZrich City;Zrich-Area
+;8025;ÿZrich City;Zrich-Area
+;8026;ÿZrich City;Zrich-Area
+;8027;ÿZrich City;Zrich-Area
+;8030;ÿZrich City;Zrich-Area
+;8031;ÿZrich City;Zrich-Area
+;8032;ÿZrich City;Zrich-Area
+;8033;ÿZrich City;Zrich-Area
+;8034;ÿZrich City;Zrich-Area
+;8036;ÿZrich City;Zrich-Area
+;8037;ÿZrich City;Zrich-Area
+;8038;ÿZrich City;Wollishofen
+;8039;ÿZrich City;Zrich-Area
+;8040;ÿZrich City;Zrich-Area
+;8041;ÿZrich City;Leimbach
+;8042;ÿZrich City;Zrich-Area
+;8044;ÿZrich City;Fluntern
+;8044;ÿZrich City;Oberstrass
+;8045;ÿZrich City;Alt-Wiedikon
+;8045;ÿZrich City;Friesenberg
+;8046;ÿZrich City;Affoltern
+;8047;ÿZrich City;Zrich-Area
+;8048;ÿZrich City;Altstetten
+;8049;ÿZrich City;Zrich-Area
+;8050;ÿZrich City;Zrich-Area
+;8051;ÿZrich City;ÿirzenbach
+;8051;ÿZrich City;Schwamendingen
+;8052;ÿZrich City;Seebach
+;8053;ÿZrich City;Witikon
+;8055;ÿZrich City;Albisrieden
+;8055;ÿZrich City;Alt-Wiedikon
+;8055;ÿZrich City;Friesenberg
+;8057;ÿZrich City;Oerlikon
+;8057;ÿZrich City;Unterstrass
+;8059;ÿZrich City;Zrich-Area
+;8061;ÿZrich City;Zrich-Area
+;8063;ÿZrich City;Zrich-Area
+;8064;ÿZrich City;Altstetten
+;8066;ÿZrich City;Zrich-Area
+;8068;ÿZrich City;Zrich-Area
+;8070;ÿZrich City;Zrich-Area
+;8071;ÿZrich City;Zrich-Area
+;8074;ÿZrich City;Zrich-Area
+;8075;ÿZrich City;Zrich-Area
+;8080;ÿZrich City;Zrich-Area
+;8081;ÿZrich City;Zrich-Area
+;8085;ÿZrich City;Zrich-Area
+;8086;ÿZrich City;Zrich-Area
+;8087;ÿZrich City;Zrich-Area
+;8088;ÿZrich City;Zrich-Area
+;8090;ÿZrich City;Zrich-Area
+;8091;ÿZrich City;Zrich-Area
+;8092;ÿZrich City;Zrich-Area
+;8093;ÿZrich City;Zrich-Area
+;8096;ÿZrich City;Zrich-Area
+;8098;ÿZrich City;Zrich-Area
+;8099;ÿZrich City;Zrich-Area
