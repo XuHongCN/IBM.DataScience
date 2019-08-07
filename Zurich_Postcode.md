@@ -1,4 +1,4 @@
-| Postcode	| Borough	| Neighbourhood
+| Postcode	| Borough	| Neighbourhood |
 8102	Zurich	Oberengstringen   
 8103	Zurich	Unterengstringen   
 8104	Zurich	Weiningen   
